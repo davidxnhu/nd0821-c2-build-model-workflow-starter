@@ -6,7 +6,7 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
-Link to this repository: [https://github.com/davidxnhu/nd0821-c2-build-model-workflow-starter](https://https://github.com/davidxnhu/nd0821-c2-build-model-workflow-starter)
+Link to this repository: [https://github.com/davidxnhu/nd0821-c2-build-model-workflow-starter](https://github.com/davidxnhu/nd0821-c2-build-model-workflow-starter)
 
 ## Table of contents
 
